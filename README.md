@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luckybearprogrammer
 - 👀 I’m interested in math and AI
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on VK
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me github
 - 😄 Pronouns: Him
 - ⚡ Fun fact: student
